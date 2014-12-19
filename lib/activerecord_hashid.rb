@@ -29,5 +29,3 @@ end
 ActiveRecord::Base.class_eval do
   include ActiveRecord::HashID
 end
-
-Core::Client.find("xVOX4n5RgbK7M8Wk")
